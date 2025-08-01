@@ -2,7 +2,7 @@
 
 Homepage: https://surveywithcode.github.io
 
-*SurveyWithCode* is a curated platform that connects research survey papers with their corresponding implementations, codebases, and benchmarks. Designed for the AI and ML research community, it enables fast discovery of state-of-the-art summaries alongside practical code resources, accelerating understanding, comparison, and experimentation.
+**SurveyWithCode** is a curated platform that connects research survey papers with their corresponding implementations, codebases, and benchmarks. Designed for the AI and ML research community, it enables fast discovery of state-of-the-art summaries alongside practical code resources, accelerating understanding, comparison, and experimentation.
 
 <!--
 
